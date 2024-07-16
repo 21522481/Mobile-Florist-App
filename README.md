@@ -1,6 +1,35 @@
 # Mobile-Florist-App
 
 Florist là một ứng dụng di động thương mại điện tử về kinh doanh mặt hàng hoa. Với Framework Flutter cùng với hệ quản trị cơ sở dữ liệu NoSQL Firebase, ứng dụng cho phép người dùng đặt hoa của cửa hàng và có thể thanh toán trực tiếp trên ứng dụng
+***
+## 1. Test Plan
+### 1.1 Scope
+
+|Feature|Scope|
+| :-----------: |:-------------:|
+|Giao diện và tính năng đăng nhập|in scope|
+|Tính năng đăng nhập bằng Firebase Auth|in scope|
+|Giao diện và tính năng đăng ký|in scope|
+|Màn hình trang chủ|in scope|
+|Tính năng wishlist|in scope|
+|Màn hình quản lí đơn đặt hàng|in scope|
+|Tính năng đặt hàng|in scope|
+|Tính năng thanh toán|in scope|
+|Màn hình giỏ hàng|in scope|
+|Quản lí profile|in scope|
+|Databse|in scope|
+
+## 2. Test Strategy
+1. Unit testing
+2. Integration testing
+3. User Interface testing
+4. System testing
+
+## 3. Test environment
+1. Android emulator (Bluestack)
+2. Visual studio code
+
+## 4. Test case và Test scenario đã được cập nhật trong project
 
 ![Screenshot 2024-07-09 173428](https://github.com/user-attachments/assets/05a52a66-ff21-448e-a066-c497212f1a35)
 ![Screenshot 2024-07-09 173522](https://github.com/user-attachments/assets/d4bece9f-05f6-4734-9328-787bc7135341)
